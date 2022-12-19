@@ -17,10 +17,11 @@ imports: [
 ]
 `
 
-Use:
+Usage:
 `{{money | trCurrency}}`.
 
 Output: `14505.50 ==> 14.505,00 ₺`
+
 Note: If you dont want to use `₺` symbol, you can use parameter that.
 
 Example: `{{money | trCurrency: '$'}}`
