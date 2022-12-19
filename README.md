@@ -1,6 +1,6 @@
 # TrCurrency
 
-This library supporting version 13, 14, 15
+This library supporting Angular version 13, 14, 15
 
 ## Install
 
