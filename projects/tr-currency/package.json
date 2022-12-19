@@ -7,5 +7,9 @@
   },
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TanerSaydam/my-tr-currency-library.git"
   }
 }
